@@ -1,0 +1,7 @@
+[build]
+  publish = "website-kopie-manuelamaderhoefer-2026-06-25/site"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
