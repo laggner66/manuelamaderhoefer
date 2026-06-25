@@ -1,0 +1,399 @@
+{
+  "source": "https://www.manuelamaderhoefer.com",
+  "capturedAt": "2026-06-25T09:24:48.096Z",
+  "routes": [
+    "/",
+    "/koerpermethoden",
+    "/angehoerige",
+    "/jugendliche",
+    "/erwachsene",
+    "/preise",
+    "/ueber-mich",
+    "/kontakt",
+    "/impressum",
+    "/datenschutz"
+  ],
+  "localAssets": [
+    "/logo.png",
+    "/assets/index-3ac45103.js",
+    "/assets/index-cc76636e.css"
+  ],
+  "externalAssets": [
+    "//images.provenexpert.com/4b/17/ac5363883ca0617122bab50b3b93/widget_portrait_250_de_0.png",
+    "//images.unsplash.com/photo-1586220742613-b731f66f7743?q=80&w=2070&auto=format&fit=crop",
+    "//images.unsplash.com/photo-1598555748505-ccca0d9b9f7b?q=80&w=1964&auto=format&fit=crop",
+    "//images.unsplash.com/photo-1699523229212-c25a2fadeb12?q=80&w=1974&auto=format&fit=crop",
+    "//storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/0f43d1bee7700faaca225e42f9e2ad89.png",
+    "//storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/39e7c142a361fc2b91c1193ad5e82752.jpg",
+    "//storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/59692e25d246591a6f5bc54f3caeed49.jpg",
+    "//storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/5f8a69180a77d598750c1b311c1e75a4.png",
+    "//storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8339df4928eb96845857be94f93ae0df.png",
+    "//storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8a786cd4b8c2c06a48c5969fb8cde030.jpg",
+    "//storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/e0b464406f953a048faded7fa6b60cf0.jpg",
+    "//storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/f31790ce5f86f691590bb7837771e44c.png",
+    "//www.provenexpert.com/css/widget_landing.css",
+    "//www.provenexpert.com/manuela-mader-hoefer/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget",
+    "//www.provenexpert.com/slider_manuela-mader-hoefer.js?sk=p_250",
+    "//www.provenexpert.com/widget/landing_manuela-mader-hoefer.js?feedback=1&avatar=1&competence=1&style=white",
+    "https://images.provenexpert.com/4b/17/ac5363883ca0617122bab50b3b93/widget_portrait_250_de_0.png",
+    "https://images.unsplash.com/photo-1586220742613-b731f66f7743?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1598555748505-ccca0d9b9f7b?q=80&w=1964&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1699523229212-c25a2fadeb12?q=80&w=1974&auto=format&fit=crop",
+    "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/0f43d1bee7700faaca225e42f9e2ad89.png",
+    "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/39e7c142a361fc2b91c1193ad5e82752.jpg",
+    "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/59692e25d246591a6f5bc54f3caeed49.jpg",
+    "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/5f8a69180a77d598750c1b311c1e75a4.png",
+    "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8339df4928eb96845857be94f93ae0df.png",
+    "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8a786cd4b8c2c06a48c5969fb8cde030.jpg",
+    "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/e0b464406f953a048faded7fa6b60cf0.jpg",
+    "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/f31790ce5f86f691590bb7837771e44c.png",
+    "https://www.googletagmanager.com/gtag/js?id=AW-17268180566",
+    "https://www.provenexpert.com/css/widget_landing.css",
+    "https://www.provenexpert.com/manuela-mader-hoefer/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget",
+    "https://www.provenexpert.com/widget/landing_manuela-mader-hoefer.js?feedback=1&avatar=1&competence=1&style=white"
+  ],
+  "renderedSnapshots": [
+    {
+      "route": "/",
+      "html": "rendered-pages/index.html",
+      "text": "rendered-pages/index.txt",
+      "screenshot": "screenshots/index.png",
+      "title": "Über mich - Manuela Mader-Höfer",
+      "h1": [
+        "Manchmal braucht es nur einen Raum, um wieder bei sich selbst anzukommen."
+      ]
+    },
+    {
+      "route": "/koerpermethoden",
+      "html": "rendered-pages/koerpermethoden.html",
+      "text": "rendered-pages/koerpermethoden.txt",
+      "screenshot": "screenshots/koerpermethoden.png",
+      "title": "Körperarbeit: Shiatsu, Gua Sha, Schröpfen | Entfaltungsraum Mödling",
+      "h1": [
+        "Körperarbeit – Mit Berührung ins Gleichgewicht"
+      ]
+    },
+    {
+      "route": "/angehoerige",
+      "html": "rendered-pages/angehoerige.html",
+      "text": "rendered-pages/angehoerige.txt",
+      "screenshot": "screenshots/angehoerige.png",
+      "title": "Angehörigenberatung bei Demenz & Alzheimer | Entfaltungsraum Mödling",
+      "h1": [
+        "Angehörigenberatung bei Demenz & Alzheimer"
+      ]
+    },
+    {
+      "route": "/jugendliche",
+      "html": "rendered-pages/jugendliche.html",
+      "text": "rendered-pages/jugendliche.txt",
+      "screenshot": "screenshots/jugendliche.png",
+      "title": "Jugendberatung in Mödling – Dein Raum für Druck & Fragen",
+      "h1": [
+        "Für dich: Ein Raum ohne Druck"
+      ]
+    },
+    {
+      "route": "/erwachsene",
+      "html": "rendered-pages/erwachsene.html",
+      "text": "rendered-pages/erwachsene.txt",
+      "screenshot": "screenshots/erwachsene.png",
+      "title": "Lebensberatung für Erwachsene: Krisen, Burnout & Neuorientierung | Mödling",
+      "h1": [
+        "Begleitung für Erwachsene in Krisen & Umbrüchen"
+      ]
+    },
+    {
+      "route": "/preise",
+      "html": "rendered-pages/preise.html",
+      "text": "rendered-pages/preise.txt",
+      "screenshot": "screenshots/preise.png",
+      "title": "Preise für Lebensberatung & Shiatsu | Entfaltungsraum Mödling",
+      "h1": []
+    },
+    {
+      "route": "/ueber-mich",
+      "html": "rendered-pages/ueber-mich.html",
+      "text": "rendered-pages/ueber-mich.txt",
+      "screenshot": "screenshots/ueber-mich.png",
+      "title": "Über mich - Manuela Mader-Höfer",
+      "h1": []
+    },
+    {
+      "route": "/kontakt",
+      "html": "rendered-pages/kontakt.html",
+      "text": "rendered-pages/kontakt.txt",
+      "screenshot": "screenshots/kontakt.png",
+      "title": "Kontakt & Anfahrt – Praxis in Maria Enzersdorf | Entfaltungsraum",
+      "h1": []
+    },
+    {
+      "route": "/impressum",
+      "html": "rendered-pages/impressum.html",
+      "text": "rendered-pages/impressum.txt",
+      "screenshot": "screenshots/impressum.png",
+      "title": "Impressum | Entfaltungsraum Mader-Höfer, Mödling",
+      "h1": [
+        "Impressum"
+      ]
+    },
+    {
+      "route": "/datenschutz",
+      "html": "rendered-pages/datenschutz.html",
+      "text": "rendered-pages/datenschutz.txt",
+      "screenshot": "screenshots/datenschutz.png",
+      "title": "Datenschutz | Entfaltungsraum Mader-Höfer, Mödling",
+      "h1": [
+        "Datenschutzerklärung"
+      ]
+    }
+  ],
+  "downloaded": [
+    {
+      "url": "https://www.manuelamaderhoefer.com/logo.png",
+      "savedAs": "site/logo.png",
+      "bytes": 5242,
+      "contentType": "text/html",
+      "finalUrl": "https://www.manuelamaderhoefer.com/logo.png"
+    },
+    {
+      "url": "https://www.manuelamaderhoefer.com/assets/index-3ac45103.js",
+      "savedAs": "site/assets/index-3ac45103.js",
+      "bytes": 414549,
+      "contentType": "application/x-javascript",
+      "finalUrl": "https://www.manuelamaderhoefer.com/assets/index-3ac45103.js"
+    },
+    {
+      "url": "https://www.manuelamaderhoefer.com/assets/index-cc76636e.css",
+      "savedAs": "site/assets/index-cc76636e.css",
+      "bytes": 36632,
+      "contentType": "text/css",
+      "finalUrl": "https://www.manuelamaderhoefer.com/assets/index-cc76636e.css"
+    },
+    {
+      "url": "https://images.provenexpert.com/4b/17/ac5363883ca0617122bab50b3b93/widget_portrait_250_de_0.png",
+      "savedAs": "site/external-assets/images.provenexpert.com/4b/17/ac5363883ca0617122bab50b3b93/widget_portrait_250_de_0.png",
+      "bytes": 22271,
+      "contentType": "image/png",
+      "finalUrl": "https://images.provenexpert.com/4b/17/ac5363883ca0617122bab50b3b93/widget_portrait_250_de_0.png"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1586220742613-b731f66f7743?q=80&w=2070&auto=format&fit=crop",
+      "savedAs": "site/external-assets/images.unsplash.com/photo-1586220742613-b731f66f7743-5668b5b87a.jpg",
+      "bytes": 362143,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://images.unsplash.com/photo-1586220742613-b731f66f7743?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1598555748505-ccca0d9b9f7b?q=80&w=1964&auto=format&fit=crop",
+      "savedAs": "site/external-assets/images.unsplash.com/photo-1598555748505-ccca0d9b9f7b-b687c1673e.jpg",
+      "bytes": 209978,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://images.unsplash.com/photo-1598555748505-ccca0d9b9f7b?q=80&w=1964&auto=format&fit=crop"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1699523229212-c25a2fadeb12?q=80&w=1974&auto=format&fit=crop",
+      "savedAs": "site/external-assets/images.unsplash.com/photo-1699523229212-c25a2fadeb12-d5d3609260.jpg",
+      "bytes": 192829,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://images.unsplash.com/photo-1699523229212-c25a2fadeb12?q=80&w=1974&auto=format&fit=crop"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/0f43d1bee7700faaca225e42f9e2ad89.png",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/0f43d1bee7700faaca225e42f9e2ad89.png",
+      "bytes": 1671492,
+      "contentType": "image/png",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/0f43d1bee7700faaca225e42f9e2ad89.png"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/39e7c142a361fc2b91c1193ad5e82752.jpg",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/39e7c142a361fc2b91c1193ad5e82752.jpg",
+      "bytes": 362446,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/39e7c142a361fc2b91c1193ad5e82752.jpg"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/59692e25d246591a6f5bc54f3caeed49.jpg",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/59692e25d246591a6f5bc54f3caeed49.jpg",
+      "bytes": 276725,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/59692e25d246591a6f5bc54f3caeed49.jpg"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/5f8a69180a77d598750c1b311c1e75a4.png",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/5f8a69180a77d598750c1b311c1e75a4.png",
+      "bytes": 1318727,
+      "contentType": "image/png",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/5f8a69180a77d598750c1b311c1e75a4.png"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8339df4928eb96845857be94f93ae0df.png",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8339df4928eb96845857be94f93ae0df.png",
+      "bytes": 2221249,
+      "contentType": "image/png",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8339df4928eb96845857be94f93ae0df.png"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8a786cd4b8c2c06a48c5969fb8cde030.jpg",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8a786cd4b8c2c06a48c5969fb8cde030.jpg",
+      "bytes": 364894,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8a786cd4b8c2c06a48c5969fb8cde030.jpg"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/e0b464406f953a048faded7fa6b60cf0.jpg",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/e0b464406f953a048faded7fa6b60cf0.jpg",
+      "bytes": 387946,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/e0b464406f953a048faded7fa6b60cf0.jpg"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/f31790ce5f86f691590bb7837771e44c.png",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/f31790ce5f86f691590bb7837771e44c.png",
+      "bytes": 2688392,
+      "contentType": "image/png",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/f31790ce5f86f691590bb7837771e44c.png"
+    },
+    {
+      "url": "https://www.provenexpert.com/css/widget_landing.css",
+      "savedAs": "site/external-assets/www.provenexpert.com/css/widget_landing.css",
+      "bytes": 26234,
+      "contentType": "text/css",
+      "finalUrl": "https://www.provenexpert.com/css/widget_landing.css"
+    },
+    {
+      "url": "https://www.provenexpert.com/manuela-mader-hoefer/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget",
+      "savedAs": "site/external-assets/www.provenexpert.com/manuela-mader-hoefer-b1c99ec076.html",
+      "bytes": 199513,
+      "contentType": "text/html; charset=UTF-8",
+      "finalUrl": "https://www.provenexpert.com/de-de/manuela-mader-hoefer/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget"
+    },
+    {
+      "url": "https://www.provenexpert.com/slider_manuela-mader-hoefer.js?sk=p_250",
+      "savedAs": "site/external-assets/www.provenexpert.com/slider_manuela-mader-hoefer-37c5194a77.js",
+      "bytes": 2017,
+      "contentType": "application/javascript",
+      "finalUrl": "https://www.provenexpert.com/slider_manuela-mader-hoefer.js?sk=p_250"
+    },
+    {
+      "url": "https://www.provenexpert.com/widget/landing_manuela-mader-hoefer.js?feedback=1&avatar=1&competence=1&style=white",
+      "savedAs": "site/external-assets/www.provenexpert.com/widget/landing_manuela-mader-hoefer-5d7e4f058d.js",
+      "bytes": 22,
+      "contentType": "application/javascript",
+      "finalUrl": "https://www.provenexpert.com/widget/landing_manuela-mader-hoefer.js?feedback=1&avatar=1&competence=1&style=white"
+    },
+    {
+      "url": "https://images.provenexpert.com/4b/17/ac5363883ca0617122bab50b3b93/widget_portrait_250_de_0.png",
+      "savedAs": "site/external-assets/images.provenexpert.com/4b/17/ac5363883ca0617122bab50b3b93/widget_portrait_250_de_0.png",
+      "bytes": 22271,
+      "contentType": "image/png",
+      "finalUrl": "https://images.provenexpert.com/4b/17/ac5363883ca0617122bab50b3b93/widget_portrait_250_de_0.png"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1586220742613-b731f66f7743?q=80&w=2070&auto=format&fit=crop",
+      "savedAs": "site/external-assets/images.unsplash.com/photo-1586220742613-b731f66f7743-5668b5b87a.jpg",
+      "bytes": 362143,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://images.unsplash.com/photo-1586220742613-b731f66f7743?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1598555748505-ccca0d9b9f7b?q=80&w=1964&auto=format&fit=crop",
+      "savedAs": "site/external-assets/images.unsplash.com/photo-1598555748505-ccca0d9b9f7b-b687c1673e.jpg",
+      "bytes": 209978,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://images.unsplash.com/photo-1598555748505-ccca0d9b9f7b?q=80&w=1964&auto=format&fit=crop"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1699523229212-c25a2fadeb12?q=80&w=1974&auto=format&fit=crop",
+      "savedAs": "site/external-assets/images.unsplash.com/photo-1699523229212-c25a2fadeb12-d5d3609260.jpg",
+      "bytes": 192829,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://images.unsplash.com/photo-1699523229212-c25a2fadeb12?q=80&w=1974&auto=format&fit=crop"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/0f43d1bee7700faaca225e42f9e2ad89.png",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/0f43d1bee7700faaca225e42f9e2ad89.png",
+      "bytes": 1671492,
+      "contentType": "image/png",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/0f43d1bee7700faaca225e42f9e2ad89.png"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/39e7c142a361fc2b91c1193ad5e82752.jpg",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/39e7c142a361fc2b91c1193ad5e82752.jpg",
+      "bytes": 362446,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/39e7c142a361fc2b91c1193ad5e82752.jpg"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/59692e25d246591a6f5bc54f3caeed49.jpg",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/59692e25d246591a6f5bc54f3caeed49.jpg",
+      "bytes": 276725,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/59692e25d246591a6f5bc54f3caeed49.jpg"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/5f8a69180a77d598750c1b311c1e75a4.png",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/5f8a69180a77d598750c1b311c1e75a4.png",
+      "bytes": 1318727,
+      "contentType": "image/png",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/5f8a69180a77d598750c1b311c1e75a4.png"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8339df4928eb96845857be94f93ae0df.png",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8339df4928eb96845857be94f93ae0df.png",
+      "bytes": 2221249,
+      "contentType": "image/png",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8339df4928eb96845857be94f93ae0df.png"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8a786cd4b8c2c06a48c5969fb8cde030.jpg",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8a786cd4b8c2c06a48c5969fb8cde030.jpg",
+      "bytes": 364894,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/8a786cd4b8c2c06a48c5969fb8cde030.jpg"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/e0b464406f953a048faded7fa6b60cf0.jpg",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/e0b464406f953a048faded7fa6b60cf0.jpg",
+      "bytes": 387946,
+      "contentType": "image/jpeg",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/e0b464406f953a048faded7fa6b60cf0.jpg"
+    },
+    {
+      "url": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/f31790ce5f86f691590bb7837771e44c.png",
+      "savedAs": "site/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/f31790ce5f86f691590bb7837771e44c.png",
+      "bytes": 2688392,
+      "contentType": "image/png",
+      "finalUrl": "https://storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/f31790ce5f86f691590bb7837771e44c.png"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-17268180566",
+      "savedAs": "site/external-assets/www.googletagmanager.com/gtag/js-e66764b068.js",
+      "bytes": 389649,
+      "contentType": "application/javascript; charset=UTF-8",
+      "finalUrl": "https://www.googletagmanager.com/gtag/js?id=AW-17268180566"
+    },
+    {
+      "url": "https://www.provenexpert.com/css/widget_landing.css",
+      "savedAs": "site/external-assets/www.provenexpert.com/css/widget_landing.css",
+      "bytes": 26234,
+      "contentType": "text/css",
+      "finalUrl": "https://www.provenexpert.com/css/widget_landing.css"
+    },
+    {
+      "url": "https://www.provenexpert.com/manuela-mader-hoefer/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget",
+      "savedAs": "site/external-assets/www.provenexpert.com/manuela-mader-hoefer-b1c99ec076.html",
+      "bytes": 199763,
+      "contentType": "text/html; charset=UTF-8",
+      "finalUrl": "https://www.provenexpert.com/de-de/manuela-mader-hoefer/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget"
+    },
+    {
+      "url": "https://www.provenexpert.com/widget/landing_manuela-mader-hoefer.js?feedback=1&avatar=1&competence=1&style=white",
+      "savedAs": "site/external-assets/www.provenexpert.com/widget/landing_manuela-mader-hoefer-5d7e4f058d.js",
+      "bytes": 22,
+      "contentType": "application/javascript",
+      "finalUrl": "https://www.provenexpert.com/widget/landing_manuela-mader-hoefer.js?feedback=1&avatar=1&competence=1&style=white"
+    }
+  ],
+  "errors": []
+}

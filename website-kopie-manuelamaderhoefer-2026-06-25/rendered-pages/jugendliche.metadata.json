@@ -1,0 +1,150 @@
+{
+  "title": "Jugendberatung in Mödling – Dein Raum für Druck & Fragen",
+  "description": "Vertrauliche Beratung für Jugendliche bei Schulstress, Zukunftsängsten, Druck und persönlichen Fragen. Finde Unterstützung und ein offenes Ohr in Maria Enzersdorf bei Mödling.",
+  "h1": [
+    "Für dich: Ein Raum ohne Druck"
+  ],
+  "headerNav": [
+    {
+      "text": "Startseite",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Preise",
+      "href": "http://127.0.0.1:4173/#preise"
+    },
+    {
+      "text": "Über mich",
+      "href": "http://127.0.0.1:4173/#ueber-mich"
+    },
+    {
+      "text": "Kontakt",
+      "href": "http://127.0.0.1:4173/#kontakt"
+    }
+  ],
+  "footerNav": [
+    {
+      "text": "Entfaltungsraum",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Startseite",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Preise",
+      "href": "http://127.0.0.1:4173/#preise"
+    },
+    {
+      "text": "Über mich",
+      "href": "http://127.0.0.1:4173/#ueber-mich"
+    },
+    {
+      "text": "Kontakt",
+      "href": "http://127.0.0.1:4173/#kontakt"
+    },
+    {
+      "text": "manuelamaderhoefer@gmail.com",
+      "href": "mailto:manuelamaderhoefer@gmail.com"
+    },
+    {
+      "text": "0676-4445206",
+      "href": "tel:+436764445206"
+    },
+    {
+      "text": "Impressum",
+      "href": "http://127.0.0.1:4173/impressum"
+    },
+    {
+      "text": "Datenschutz",
+      "href": "http://127.0.0.1:4173/datenschutz"
+    }
+  ],
+  "brandText": "Entfaltungsraum\nManuela Mader-Höfer\nLebensberaterin",
+  "links": [
+    {
+      "text": "Zum Hauptinhalt springen",
+      "href": "http://127.0.0.1:4173/jugendliche/#main-content"
+    },
+    {
+      "text": "Zum Hauptinhalt springen",
+      "href": "http://127.0.0.1:4173/jugendliche/#main-content"
+    },
+    {
+      "text": "Entfaltungsraum\nManuela Mader-Höfer\nLebensberaterin",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Startseite",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Preise",
+      "href": "http://127.0.0.1:4173/#preise"
+    },
+    {
+      "text": "Über mich",
+      "href": "http://127.0.0.1:4173/#ueber-mich"
+    },
+    {
+      "text": "Kontakt",
+      "href": "http://127.0.0.1:4173/#kontakt"
+    },
+    {
+      "text": "Entfaltungsraum",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Startseite",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Preise",
+      "href": "http://127.0.0.1:4173/#preise"
+    },
+    {
+      "text": "Über mich",
+      "href": "http://127.0.0.1:4173/#ueber-mich"
+    },
+    {
+      "text": "Kontakt",
+      "href": "http://127.0.0.1:4173/#kontakt"
+    },
+    {
+      "text": "manuelamaderhoefer@gmail.com",
+      "href": "mailto:manuelamaderhoefer@gmail.com"
+    },
+    {
+      "text": "0676-4445206",
+      "href": "tel:+436764445206"
+    },
+    {
+      "text": "Impressum",
+      "href": "http://127.0.0.1:4173/impressum"
+    },
+    {
+      "text": "Datenschutz",
+      "href": "http://127.0.0.1:4173/datenschutz"
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "href": "http://127.0.0.1:4173/datenschutz"
+    },
+    {
+      "text": "4 Kundenbewertungen\nSEHR GUT\n100 % Empfehlungen\nEmpfehlung! 5 von 5 Sternen.\nMehr Infos\ni",
+      "href": "https://www.provenexpert.com/manuela-mader-hoefer/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Eine junge Person im Gespräch mit einer Beraterin in einer gemütlichen Praxis.",
+      "src": "http://127.0.0.1:4173/external-assets/storage.googleapis.com/hostinger-horizons-assets-prod/4378b648-3b13-4af9-ac8b-ea89707ef3a2/e0b464406f953a048faded7fa6b60cf0.jpg"
+    },
+    {
+      "alt": "ProvenExpert",
+      "src": "https://www.provenexpert.com/images/widget/provenexpert_logo_black.png"
+    }
+  ],
+  "provenExpertBar": true,
+  "oldProvenExpertWidget": false
+}

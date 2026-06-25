@@ -1,0 +1,154 @@
+{
+  "title": "Körperarbeit: Gua Sha & Schröpfen | Entfaltungsraum Mödling",
+  "description": "Entdecken Sie Gua Sha und Schröpfen in meiner Praxis in Mödling. Sanfte Körperarbeit zur Lösung von Verspannungen, Stressabbau und zur Förderung des emotionalen Gleichgewichts.",
+  "h1": [
+    "Körperarbeit – Mit Berührung ins Gleichgewicht"
+  ],
+  "headerNav": [
+    {
+      "text": "Startseite",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Preise",
+      "href": "http://127.0.0.1:4173/#preise"
+    },
+    {
+      "text": "Über mich",
+      "href": "http://127.0.0.1:4173/#ueber-mich"
+    },
+    {
+      "text": "Kontakt",
+      "href": "http://127.0.0.1:4173/#kontakt"
+    }
+  ],
+  "footerNav": [
+    {
+      "text": "Entfaltungsraum",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Startseite",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Preise",
+      "href": "http://127.0.0.1:4173/#preise"
+    },
+    {
+      "text": "Über mich",
+      "href": "http://127.0.0.1:4173/#ueber-mich"
+    },
+    {
+      "text": "Kontakt",
+      "href": "http://127.0.0.1:4173/#kontakt"
+    },
+    {
+      "text": "manuelamaderhoefer@gmail.com",
+      "href": "mailto:manuelamaderhoefer@gmail.com"
+    },
+    {
+      "text": "0676-4445206",
+      "href": "tel:+436764445206"
+    },
+    {
+      "text": "Impressum",
+      "href": "http://127.0.0.1:4173/impressum"
+    },
+    {
+      "text": "Datenschutz",
+      "href": "http://127.0.0.1:4173/datenschutz"
+    }
+  ],
+  "brandText": "Entfaltungsraum\nManuela Mader-Höfer\nLebensberaterin",
+  "links": [
+    {
+      "text": "Zum Hauptinhalt springen",
+      "href": "http://127.0.0.1:4173/koerpermethoden/#main-content"
+    },
+    {
+      "text": "Zum Hauptinhalt springen",
+      "href": "http://127.0.0.1:4173/koerpermethoden/#main-content"
+    },
+    {
+      "text": "Entfaltungsraum\nManuela Mader-Höfer\nLebensberaterin",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Startseite",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Preise",
+      "href": "http://127.0.0.1:4173/#preise"
+    },
+    {
+      "text": "Über mich",
+      "href": "http://127.0.0.1:4173/#ueber-mich"
+    },
+    {
+      "text": "Kontakt",
+      "href": "http://127.0.0.1:4173/#kontakt"
+    },
+    {
+      "text": "Entfaltungsraum",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Startseite",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Preise",
+      "href": "http://127.0.0.1:4173/#preise"
+    },
+    {
+      "text": "Über mich",
+      "href": "http://127.0.0.1:4173/#ueber-mich"
+    },
+    {
+      "text": "Kontakt",
+      "href": "http://127.0.0.1:4173/#kontakt"
+    },
+    {
+      "text": "manuelamaderhoefer@gmail.com",
+      "href": "mailto:manuelamaderhoefer@gmail.com"
+    },
+    {
+      "text": "0676-4445206",
+      "href": "tel:+436764445206"
+    },
+    {
+      "text": "Impressum",
+      "href": "http://127.0.0.1:4173/impressum"
+    },
+    {
+      "text": "Datenschutz",
+      "href": "http://127.0.0.1:4173/datenschutz"
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "href": "http://127.0.0.1:4173/datenschutz"
+    },
+    {
+      "text": "4 Kundenbewertungen\nSEHR GUT\n100 % Empfehlungen\nEmpfehlung! 5 von 5 Sternen.\nMehr Infos\ni",
+      "href": "https://www.provenexpert.com/manuela-mader-hoefer/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Nahaufnahme einer Gua Sha-Anwendung auf dem Rücken mit einem Jadestein.",
+      "src": "http://127.0.0.1:4173/external-assets/images.unsplash.com/photo-1586220742613-b731f66f7743-5668b5b87a.jpg"
+    },
+    {
+      "alt": "Schröpfgläser auf dem Rücken einer Person zur Linderung von Verspannungen.",
+      "src": "http://127.0.0.1:4173/external-assets/images.unsplash.com/photo-1598555748505-ccca0d9b9f7b-b687c1673e.jpg"
+    },
+    {
+      "alt": "ProvenExpert",
+      "src": "https://www.provenexpert.com/images/widget/provenexpert_logo_black.png"
+    }
+  ],
+  "provenExpertBar": true,
+  "oldProvenExpertWidget": false
+}

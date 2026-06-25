@@ -1,0 +1,150 @@
+{
+  "title": "Impressum | Entfaltungsraum Mader-Höfer, Mödling",
+  "description": "Rechtliche Hinweise und Impressum für die Website von Manuela Mader-Höfer, Praxis für Lebensberatung im Raum Mödling.",
+  "h1": [
+    "Impressum"
+  ],
+  "headerNav": [
+    {
+      "text": "Startseite",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Preise",
+      "href": "http://127.0.0.1:4173/#preise"
+    },
+    {
+      "text": "Über mich",
+      "href": "http://127.0.0.1:4173/#ueber-mich"
+    },
+    {
+      "text": "Kontakt",
+      "href": "http://127.0.0.1:4173/#kontakt"
+    }
+  ],
+  "footerNav": [
+    {
+      "text": "Entfaltungsraum",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Startseite",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Preise",
+      "href": "http://127.0.0.1:4173/#preise"
+    },
+    {
+      "text": "Über mich",
+      "href": "http://127.0.0.1:4173/#ueber-mich"
+    },
+    {
+      "text": "Kontakt",
+      "href": "http://127.0.0.1:4173/#kontakt"
+    },
+    {
+      "text": "manuelamaderhoefer@gmail.com",
+      "href": "mailto:manuelamaderhoefer@gmail.com"
+    },
+    {
+      "text": "0676-4445206",
+      "href": "tel:+436764445206"
+    },
+    {
+      "text": "Impressum",
+      "href": "http://127.0.0.1:4173/impressum"
+    },
+    {
+      "text": "Datenschutz",
+      "href": "http://127.0.0.1:4173/datenschutz"
+    }
+  ],
+  "brandText": "Entfaltungsraum\nManuela Mader-Höfer\nLebensberaterin",
+  "links": [
+    {
+      "text": "Zum Hauptinhalt springen",
+      "href": "http://127.0.0.1:4173/impressum/#main-content"
+    },
+    {
+      "text": "Zum Hauptinhalt springen",
+      "href": "http://127.0.0.1:4173/impressum/#main-content"
+    },
+    {
+      "text": "Entfaltungsraum\nManuela Mader-Höfer\nLebensberaterin",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Startseite",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Preise",
+      "href": "http://127.0.0.1:4173/#preise"
+    },
+    {
+      "text": "Über mich",
+      "href": "http://127.0.0.1:4173/#ueber-mich"
+    },
+    {
+      "text": "Kontakt",
+      "href": "http://127.0.0.1:4173/#kontakt"
+    },
+    {
+      "text": "www.ris.bka.gv.at",
+      "href": "https://www.ris.bka.gv.at/"
+    },
+    {
+      "text": "Entfaltungsraum",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Startseite",
+      "href": "http://127.0.0.1:4173/"
+    },
+    {
+      "text": "Preise",
+      "href": "http://127.0.0.1:4173/#preise"
+    },
+    {
+      "text": "Über mich",
+      "href": "http://127.0.0.1:4173/#ueber-mich"
+    },
+    {
+      "text": "Kontakt",
+      "href": "http://127.0.0.1:4173/#kontakt"
+    },
+    {
+      "text": "manuelamaderhoefer@gmail.com",
+      "href": "mailto:manuelamaderhoefer@gmail.com"
+    },
+    {
+      "text": "0676-4445206",
+      "href": "tel:+436764445206"
+    },
+    {
+      "text": "Impressum",
+      "href": "http://127.0.0.1:4173/impressum"
+    },
+    {
+      "text": "Datenschutz",
+      "href": "http://127.0.0.1:4173/datenschutz"
+    },
+    {
+      "text": "Datenschutzerklärung",
+      "href": "http://127.0.0.1:4173/datenschutz"
+    },
+    {
+      "text": "4 Kundenbewertungen\nSEHR GUT\n100 % Empfehlungen\nEmpfehlung! 5 von 5 Sternen.\nMehr Infos\ni",
+      "href": "https://www.provenexpert.com/manuela-mader-hoefer/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget"
+    }
+  ],
+  "images": [
+    {
+      "alt": "ProvenExpert",
+      "src": "https://www.provenexpert.com/images/widget/provenexpert_logo_black.png"
+    }
+  ],
+  "provenExpertBar": true,
+  "oldProvenExpertWidget": false
+}
