@@ -29,3 +29,4 @@ Zeitzone: Europe/Vienna
 | 12:15 | GitHub-Veröffentlichung vorbereitet | Ziel-Repository laggner66/manuelamaderhoefer geprueft und lokaler Projektstand fuer den ersten Push vorbereitet. |
 | 12:20 | Navigation und Berufsbezeichnung bereinigt | Menuepunkt Gua Sha & Schroepfen aus Header, Footer und Mobile-Menue entfernt; Formulierung "in Ausbildung unter Supervision" aus eigenen Website-Texten entfernt. |
 | 12:20 | Finale GitHub-QA abgeschlossen | Gerenderte Snapshots aktualisiert, zehn Routen mit HTTP 200 geprueft und eigene Site-/Snapshot-Dateien auf entfernte Supervision-Formulierung kontrolliert. |
+| 12:30 | Jugendberatungsbild ersetzt | Markiertes Startseitenfoto durch ein neues Beratungsbild mit Jugendlichen ersetzt, Alt-Text aktualisiert und Desktop-/Mobile-Browser-QA durchgefuehrt. |
