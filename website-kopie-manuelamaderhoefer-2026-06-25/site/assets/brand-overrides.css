@@ -3,3 +3,39 @@
   --tw-text-opacity: 1;
   color: rgb(49 61 49 / var(--tw-text-opacity, 1));
 }
+
+.about-copy-override {
+  width: 100%;
+  max-width: 56rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.about-copy-override .about-quote {
+  max-width: 48rem;
+  margin: 0 auto 1.5rem;
+  color: rgb(48 81 74);
+  font-size: 1.375rem;
+  font-style: italic;
+  line-height: 1.45;
+}
+
+.about-copy-override .about-paragraph {
+  max-width: 48rem;
+  margin: 0 auto 1.25rem;
+  color: rgb(60 102 93);
+  font-size: 1.125rem;
+  line-height: 1.75;
+}
+
+@media (min-width: 1024px) {
+  .about-copy-override {
+    text-align: left;
+  }
+
+  .about-copy-override .about-quote,
+  .about-copy-override .about-paragraph {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
