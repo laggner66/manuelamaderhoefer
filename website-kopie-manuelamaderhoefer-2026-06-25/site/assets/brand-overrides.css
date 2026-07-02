@@ -45,6 +45,45 @@
   white-space: normal;
 }
 
+.brand-link-with-logo {
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 0.65rem;
+  min-width: 0;
+}
+
+.brand-logo-mark {
+  width: 2.75rem;
+  height: 2.75rem;
+  flex: 0 0 auto;
+  border-radius: 9999px;
+  object-fit: cover;
+  box-shadow: 0 2px 10px rgb(48 81 74 / 0.12);
+}
+
+.brand-text-stack {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.brand-text-stack > span {
+  display: block;
+}
+
+.footer-brand-with-logo {
+  gap: 0.5rem;
+}
+
+.footer-brand-logo-mark {
+  width: 2.125rem;
+  height: 2.125rem;
+  flex: 0 0 auto;
+  border-radius: 9999px;
+  object-fit: cover;
+}
+
 .homepage-calendly-panel {
   display: flex;
   flex-direction: column;
@@ -117,8 +156,9 @@
   }
 
   .brand-service-line {
-    max-width: none;
-    white-space: nowrap;
+    max-width: 16rem;
+    font-size: 0.68rem;
+    white-space: normal;
   }
 
   .min-h-screen.flex.flex-col.bg-warm-50
@@ -135,6 +175,36 @@
     > nav
     + * {
     flex-shrink: 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .min-h-screen.flex.flex-col.bg-warm-50
+    > .max-w-7xl.mx-auto.px-4
+    > .flex.items-center.justify-between.h-20
+    > nav,
+  .min-h-screen.flex.flex-col.bg-warm-50
+    > .max-w-7xl.mx-auto.px-4
+    > .flex.items-center.justify-between.h-20
+    > nav
+    + div {
+    display: none !important;
+  }
+
+  .min-h-screen.flex.flex-col.bg-warm-50
+    > .max-w-7xl.mx-auto.px-4
+    > .flex.items-center.justify-between.h-20
+    > nav
+    + div
+    + div {
+    display: block !important;
+  }
+}
+
+@media (min-width: 1280px) {
+  .brand-service-line {
+    max-width: none;
+    white-space: nowrap;
   }
 }
 
@@ -158,6 +228,15 @@
   .brand-service-line {
     max-width: 100%;
     font-size: 0.7rem;
+  }
+
+  .brand-link-with-logo {
+    gap: 0.5rem;
+  }
+
+  .brand-logo-mark {
+    width: 2.25rem;
+    height: 2.25rem;
   }
 }
 
