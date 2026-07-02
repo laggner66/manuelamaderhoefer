@@ -36,3 +36,4 @@ Zeitzone: Europe/Vienna
 | 15:44 | Lokale Vorschau gestartet | Statischer Server fuer den lokalen Arbeitsstand auf http://127.0.0.1:4174 gestartet und mit HTTP 200 geprueft. |
 | 15:48 | Blaue Ueber-mich-Ueberschrift korrigiert | `brand-overrides.css` ergaenzt und in alle statischen HTML-Einstiege eingebunden; Browser-QA bestaetigt Sage-Farbe `rgb(49, 61, 49)` statt Blau und keine Konsolenwarnungen/-fehler. |
 | 15:50 | Veroeffentlichung vorbereitet | Netlify-Projektstatus, lokale Routen und neues CSS-Asset geprueft; alle lokalen Routen und `/assets/brand-overrides.css` liefern HTTP 200. |
+| 15:53 | GitHub-Push und Netlify-Deploy abgeschlossen | Commit `9a96851` nach `main` gepusht und Production-Deploy `6a466cdf4f7bdb67f7c57f15` auf https://manuelamaderhoefer.netlify.app veroeffentlicht; Live-HTTP-Pruefung bestaetigt neues CSS, neues Portraitbild und Bundle-Referenz. |
