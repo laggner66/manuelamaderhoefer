@@ -1,4 +1,11 @@
 /* Align legacy template colors with the site's sage palette. */
+html,
+body,
+#root {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 .text-blue-900 {
   --tw-text-opacity: 1;
   color: rgb(49 61 49 / var(--tw-text-opacity, 1));
@@ -82,6 +89,16 @@
   flex: 0 0 auto;
   border-radius: 9999px;
   object-fit: cover;
+}
+
+footer,
+footer * {
+  min-width: 0;
+}
+
+footer a[href^="mailto:"] {
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .homepage-calendly-panel {
