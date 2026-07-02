@@ -31,3 +31,8 @@ Zeitzone: Europe/Vienna
 | 12:20 | Finale GitHub-QA abgeschlossen | Gerenderte Snapshots aktualisiert, zehn Routen mit HTTP 200 geprueft und eigene Site-/Snapshot-Dateien auf entfernte Supervision-Formulierung kontrolliert. |
 | 12:30 | Jugendberatungsbild ersetzt | Markiertes Startseitenfoto durch ein neues Beratungsbild mit Jugendlichen ersetzt, Alt-Text aktualisiert und Desktop-/Mobile-Browser-QA durchgefuehrt. |
 | 12:37 | Netlify-Projekt angelegt und deployt | Neues Netlify-Projekt `manuelamaderhoefer` erstellt, statische Site produktiv auf https://manuelamaderhoefer.netlify.app deployt und Live-Seite im Browser geprueft. |
+| 15:42 | Bildwechsel geprueft | Git-Diff kontrolliert: Bewertungsbereich nutzt jetzt `n1a5222-manuela-maderhoefer.jpg` statt `39e7c142a361fc2b91c1193ad5e82752.jpg`; neue JPG-Datei ist lokal vorhanden. |
+| 15:43 | Live-Bundle geprueft | Netlify-Bundle enthaelt noch `39e7c142a361fc2b91c1193ad5e82752.jpg`; der neue Bildwechsel ist damit lokal vorbereitet, aber noch nicht live veroeffentlicht. |
+| 15:44 | Lokale Vorschau gestartet | Statischer Server fuer den lokalen Arbeitsstand auf http://127.0.0.1:4174 gestartet und mit HTTP 200 geprueft. |
+| 15:48 | Blaue Ueber-mich-Ueberschrift korrigiert | `brand-overrides.css` ergaenzt und in alle statischen HTML-Einstiege eingebunden; Browser-QA bestaetigt Sage-Farbe `rgb(49, 61, 49)` statt Blau und keine Konsolenwarnungen/-fehler. |
+| 15:50 | Veroeffentlichung vorbereitet | Netlify-Projektstatus, lokale Routen und neues CSS-Asset geprueft; alle lokalen Routen und `/assets/brand-overrides.css` liefern HTTP 200. |

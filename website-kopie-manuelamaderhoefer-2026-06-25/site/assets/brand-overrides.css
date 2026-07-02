@@ -1,0 +1,5 @@
+/* Align legacy template colors with the site's sage palette. */
+.text-blue-900 {
+  --tw-text-opacity: 1;
+  color: rgb(49 61 49 / var(--tw-text-opacity, 1));
+}
