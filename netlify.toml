@@ -1,5 +1,56 @@
 [build]
   publish = "website-kopie-manuelamaderhoefer-2026-06-25/site"
+  functions = "netlify/functions"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/api/analytics/*"
+  [headers.values]
+    Cache-Control = "no-store, max-age=0"
+    X-Robots-Tag = "noindex, nofollow, noarchive"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "no-referrer"
+
+[[headers]]
+  for = "/admin/statistik*"
+  [headers.values]
+    Cache-Control = "private, no-store, max-age=0"
+    X-Robots-Tag = "noindex, nofollow, noarchive, nosnippet, noimageindex"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "no-referrer"
+
+[[redirects]]
+  from = "/api/analytics/collect"
+  to = "/.netlify/functions/analytics-collect"
+  status = 200
+
+[[redirects]]
+  from = "/api/analytics/data.json"
+  to = "/.netlify/functions/analytics-admin"
+  status = 200
+
+[[redirects]]
+  from = "/api/analytics/export.csv"
+  to = "/.netlify/functions/analytics-admin"
+  status = 200
+
+[[redirects]]
+  from = "/admin/statistik"
+  to = "/.netlify/functions/analytics-admin"
+  status = 200
+
+[[redirects]]
+  from = "/admin/statistik/*"
+  to = "/.netlify/functions/analytics-admin"
+  status = 200
 
 [[redirects]]
   from = "/*"

@@ -1,1 +1,6 @@
+/api/analytics/collect /.netlify/functions/analytics-collect 200
+/api/analytics/data.json /.netlify/functions/analytics-admin 200
+/api/analytics/export.csv /.netlify/functions/analytics-admin 200
+/admin/statistik /.netlify/functions/analytics-admin 200
+/admin/statistik/* /.netlify/functions/analytics-admin 200
 /* /index.html 200
