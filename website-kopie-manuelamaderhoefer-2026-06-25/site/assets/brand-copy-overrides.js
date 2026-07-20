@@ -1,7 +1,7 @@
 (function () {
   const logoUrl = "/assets/entfaltungsraum-baum-logo-512.png";
   const serviceLine =
-    "Lebensberaterin (Personzentriert), Psychologische Beratung, Coaching";
+    "Diplom Lebens- und Sozialberaterin, Psychosoziale Beraterin";
 
   function addHeaderLogo(link) {
     link.classList.add("brand-link-with-logo");
